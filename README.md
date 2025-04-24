@@ -7,7 +7,7 @@ Software Engineer
 I love Coding and problem solving
 
 *   🌍  I'm based in Turkey, Ankara
-*   🖥️  See my portfolio at [My Website](http://www.alialfatlawi.me)
+*   🖥️  See my portfolio at [My Website](http://www.alialfatlawi.com)
 *   ✉️  You can contact me at [alawi\_amer@yahoo.co.uk](mailto:alawi_amer@yahoo.co.uk)
 *   🧠  I'm learning Swift and SwiftUI
 *   🤝  I'm open to collaborating on Other iOS applications### Skills 
