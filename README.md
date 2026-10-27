@@ -1,97 +1,85 @@
-<h1 align="center">Hi, I'm Ali Al-Fatlawi 👋</h1>
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ali%20Al-Fatlawi&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20iOS%20%C2%B7%20Full-Stack%20%C2%B7%20Backend&descSize=16&descAlignY=56" />
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="http://www.alialfatlawi.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2C9CDB&center=true&vCenter=true&width=620&lines=I+ship+apps+people+actually+use+%F0%9F%93%B1;6+iOS+apps+live+on+the+App+Store;~7%2C000+students+use+Atilim+Schedule;B2B+platforms+for+Qi+Card+%26+EU+projects;Open+to+iOS+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <strong>Software Engineer</strong> · iOS, Full-Stack & Backend<br/>
-  <em>I build production apps that real people use — from App Store to B2B platforms.</em>
+  <a href="http://www.alialfatlawi.com"><img src="https://img.shields.io/badge/Portfolio-alialfatlawi.com-ff7a18?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alfatlawi"><img src="https://img.shields.io/badge/LinkedIn-alfatlawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alawi_amer@yahoo.co.uk"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-6001D2?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </p>
+
+<p align="center"><sub>📍 Ankara, Turkey</sub></p>
+
+---
+
+## ⚡ By the numbers
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><h2>6</h2><sub>iOS apps shipped<br/>to the App Store</sub></td>
+    <td align="center" width="200"><h2>~7,000</h2><sub>active users on<br/>Atılım Schedule</sub></td>
+    <td align="center" width="200"><h2>Qi Card</h2><sub>Iraq's largest payment<br/>card company — client</sub></td>
+    <td align="center" width="200"><h2>🇪🇺</h2><sub>Platforms for<br/>EU-funded programs</sub></td>
+  </tr>
+</table>
+
+---
+
+## 📱 iOS Apps
+
+| App | What it is | Built with |
+|---|---|---|
+| **🎓 Atılım Schedule** | Class schedule app for Atılım University students — **~7,000 active users** | Swift · SwiftUI |
+| **📝 Warqa** | AI notebook with on-device intelligence — your notes never leave your phone | Swift · SwiftUI · On-device AI |
+| **🌱 Khatwa** | Mental health companion app | Flutter · Swift |
+
+## 🌐 Web & B2B Platforms
+
+| Project | What it is | Built with |
+|---|---|---|
+| **🎯 Target** | Ad-tech platform for the MENA market with AI features and real-time updates | NestJS · Next.js · Gemini · WebSockets |
+| **📚 TAD** | Learning management system for organizations | NestJS · Next.js · PostgreSQL · Prisma |
+| **🛒 ORKA** | E-commerce storefront | Next.js · TypeScript |
+| **🇪🇺 PAL LAB & ENTREHUBS** | Platforms for EU-funded programs | React · Node.js |
+
+## 📦 Open Source
+
+**Backend E-Commerce API** — REST API with JWT auth, written in Go (Gin).
+
+---
+
+## 🛠 Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-6%20Apps%20Shipped-black?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atılım%20Schedule-7%2C000%2B%20Users-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20To-iOS%20Collaboration-blue?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based%20In-Ankara%2C%20Turkey-red?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=swift,flutter,ts,nodejs,nestjs,nextjs,react&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=go,python,postgres,prisma,gcp&perline=5" />
 </p>
 
 ---
 
-## About Me
+## 🐍 Contributions
 
-- 🌍 Based in **Ankara, Turkey**
-- 📱 Shipped **6 iOS apps** to the App Store — one with **~7,000 active users**
-- 🏢 Built full B2B platforms for clients including **Qi Card** (Iraq's largest payment card company) and **EU-funded projects**
-- 🖥️ Portfolio: [alialfatlawi.com](http://www.alialfatlawi.com)
-- ✉️ Contact: [alawi_amer@yahoo.co.uk](mailto:alawi_amer@yahoo.co.uk)
-- 🤝 Open to collaborating on **iOS applications**
-
----
-
-## 🚀 Selected Projects
-
-| Project | Type | Stack | Status |
-|--------|------|-------|--------|
-| **Atılım Schedule** | iOS App · Education | Swift · SwiftUI | 🟢 Live · ~7,000 users |
-| **Warqa — AI Notebook** | iOS App · Productivity | Swift · SwiftUI · On-device AI | 🟢 App Store |
-| **Khatwa — Mental Health** | iOS App | Flutter · Swift | 🟢 App Store |
-| **TAD — LMS Platform** | Web · B2B | NestJS · Next.js · PostgreSQL · Prisma | 🟢 Live |
-| **Target — Ad-Tech** | Web · B2B · MENA | NestJS · Next.js · Gemini AI · WebSockets | 🟢 Live |
-| **ORKA E-Commerce** | Web | Next.js · TypeScript | 🟢 Live |
-| **PAL LAB & ENTREHUBS** | Web · EU-funded | React · Node.js | 🟢 Live |
-| **Backend E-Commerce API** | Open Source | Golang · Gin · JWT | 📦 GitHub |
+<!-- Generated daily by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alifatlawi/Alifatlawi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alifatlawi/Alifatlawi/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Alifatlawi/Alifatlawi/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
-
-## 🛠 Tech Stack
-
-### Mobile
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-006AB4?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### Backend & Full-Stack
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-
-### Systems
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alifatlawi&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alifatlawi&layout=compact&theme=default&hide_border=true" />
+  <b>Building an iOS app and need a hand?</b><br/>
+  <a href="mailto:alawi_amer@yahoo.co.uk">Let's talk →</a>
 </p>
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.github.com/Alifatlawi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Alifatlawi-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/alfatlawi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-alfatlawi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:alawi_amer@yahoo.co.uk">
-    <img src="https://img.shields.io/badge/Email-alawi__amer%40yahoo.co.uk-6001D2?style=flat-square&logo=yahoo&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="http://www.alialfatlawi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-alialfatlawi.com-orange?style=flat-square&logo=safari&logoColor=white" />
-  </a>
-</p>
+<!-- Animated wave footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
